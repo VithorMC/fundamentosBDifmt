@@ -3,7 +3,7 @@ trabalho de fundamentos de banco de dados
 
 *integrantes*
 
-igor bonfin 
+igor bonfin igorbonfim.inf@gmail.com,
 maikon kenedy
 matheus ferreira
-vitor manuel
+vitor  manuel vitormanuel.cds@gmail.com
